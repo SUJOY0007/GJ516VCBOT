@@ -12,14 +12,14 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{START_IMG}",
         caption=f""" ** Hey {message.from_user.mention()} , ⚔️\n\n
-๏ This is [{bn}](t.me/MT_GROUPMUSIC_BOT) ,  !
+๏ This is [{bn}](https://t.me/MT_GROUPMUSIC_BOT) ,  !
 ➻ 👑Official Account🖤
 💟Wish Me On 15 August 🎂
 ⚡My Life My Rules💪
 🎶Music ka Diwana💥
 🕉️Mahadev Bhakt🕉️
 ♍I’m not Rich ßut I’m Royal 👑
-༒︎Iɴsᴛᴀɢʀᴀᴍ ɪᴅ ༒︎ mt_legend_xd ☠︎︎.
+༒︎Iɴsᴛᴀɢʀᴀᴍ ɪᴅ ༒︎ ☠︎︎ mt_legend_xd ☠︎︎.
 
 ──────────────────
 ๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
