@@ -28,7 +28,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✚ group me add kar re ", url=f"https://t.me/{bu}?startgroup=true"
+                        "✚ group me add kar re ", url=f"https://t.me/MT_GROUPMUSIC_BOT?startgroup=true"
                        ),
                  ],[
                     InlineKeyboardButton(
